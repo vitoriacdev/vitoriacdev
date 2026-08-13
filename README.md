@@ -1,8 +1,7 @@
 ### 👩🏻‍💻 Vitória
 `Estudante de Engenharia de Software`
 
-Me chamo Vitória, sou estudante de Engenharia de Software (1º semestre) e estou construindo minha base em programação com Python, Git/GitHub e JavaScript. Também compartilho o que aprendo através do meu Instagram "[dev.vtoria](https://instagram.com/dev.vtoria)", onde falo sobre programação para iniciantes e mulheres na tecnologia.
-
+Me chamo Vitória, sou estudante de Engenharia de Software e estou construindo minha base em programação com Python, Git/GitHub e JavaScript. 
 <br>
 
 ### 🤖 Linguagens e Tecnologias
