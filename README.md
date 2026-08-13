@@ -1,16 +1,48 @@
-## Hi there 👋
+### 👩🏻‍💻 Vitória
+`Estudante de Engenharia de Software`
 
-<!--
-**vitoriacdev/vitoriacdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Vitória, sou estudante de Engenharia de Software (1º semestre) e estou construindo minha base em programação com Python, Git/GitHub e JavaScript. Também compartilho o que aprendo através do meu Instagram "[dev.vtoria](https://instagram.com/dev.vtoria)", onde falo sobre programação para iniciantes e mulheres na tecnologia.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Linguagens e Tecnologias
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+<br>
+
+### 📊 Estatísticas
+
+<p align="left">
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=vitoriacdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vitoriacdev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitoriacdev&theme=tokyonight&hide_border=true" />
+</p>
+
+<br>
+
+### 📫 Onde me encontrar
+
+<p align="left">
+  <a href="https://instagram.com/dev.vtoria" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram%20(dev)-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/_vitoriacavallaro" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram%20(pessoal)-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/thamillycavallar0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
