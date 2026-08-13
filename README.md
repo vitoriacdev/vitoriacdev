@@ -1,5 +1,5 @@
 ### 👩🏻‍💻 Vitória Cavallaro 
-`Estudante de Engenharia de Software`
+`Software Engineering student`
 
 My name is Vitória. I'm a Software Engineering student building my foundation in programming with HTML, Python, Git/GitHub, and JavaScript. 
 <br>
