@@ -33,13 +33,9 @@ My name is Vitória. I'm a Software Engineering student building my foundation i
 <br>
 
 ### 📫 Connect with me
-
 <p align="left">
-  <a href="https://instagram.com/dev.vtoria" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram%20(dev)-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/_vitoriacavallaro" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram%20(pessoal)-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="mailto:contatovitoriacavallaro@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/thamillycavallar0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
