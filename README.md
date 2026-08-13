@@ -1,10 +1,10 @@
 ### 👩🏻‍💻 Vitória
 `Estudante de Engenharia de Software`
 
-Me chamo Vitória, sou estudante de Engenharia de Software e estou construindo minha base em programação com Python, Git/GitHub e JavaScript. 
+My name is Vitória. I'm a Software Engineering student building my foundation in programming with HTML, Python, Git/GitHub, and JavaScript. 
 <br>
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -19,7 +19,7 @@ Me chamo Vitória, sou estudante de Engenharia de Software e estou construindo m
 
 <br>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p align="left">
   <img height="165em" src="https://github-stats-extended.vercel.app/api?username=vitoriacdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -32,7 +32,7 @@ Me chamo Vitória, sou estudante de Engenharia de Software e estou construindo m
 
 <br>
 
-### 📫 Onde me encontrar
+### 📫 Connect with me
 
 <p align="left">
   <a href="https://instagram.com/dev.vtoria" target="_blank">
