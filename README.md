@@ -18,7 +18,6 @@ My name is Vitória. I'm a Software Engineering student building my foundation i
 </p>
 
 <br>
-
 ### 📊 Statistics
 
 <p align="left">
@@ -31,7 +30,6 @@ My name is Vitória. I'm a Software Engineering student building my foundation i
 </p>
 
 <br>
-
 ### 📫 Connect with me
 <p align="left">
   <a href="mailto:contatovitoriacavallaro@gmail.com" target="_blank">
