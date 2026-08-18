@@ -26,10 +26,6 @@ My name is Vitória. I'm a Software Engineering student building my foundation i
   <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vitoriacdev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitoriacdev&theme=tokyonight&hide_border=true" />
-</p>
-
 <br>
 
 ### 📫 Connect with me
