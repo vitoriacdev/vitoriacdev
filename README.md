@@ -27,7 +27,7 @@ My name is Vitória. I'm a Software Engineering student building my foundation i
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitoriacdev&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitoriacdev&theme=tokyonight&hide_border=true"/>
 </p>
 
 <br>
