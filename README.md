@@ -7,8 +7,7 @@
 <br>
 
 Hey, I'm Vitória! I'm 20 years old, based in Rio de Janeiro, and studying Software Engineering.
-My main focus is on Front-End Development and UI/UX Design. I create modern and intuitive interfaces by combining the design side with tools like Figma, Canva, and Google Stitch, and the coding side using HTML, CSS, JavaScript, and TypeScript. I also build my applications using frameworks and libraries such as React, Vue.js, and Angular.
-Looking ahead, I also have a strong interest in stepping into the world of Game Development! <br>
+My main focus is on Front-End Development and UI/UX Design. I create modern and intuitive interfaces by combining the design side with tools like Figma, Canva, and Google Stitch, and the coding side using HTML, CSS, JavaScript, and TypeScript. I also build my applications using frameworks and libraries such as React, Vue.js, and Angular. Looking ahead, I also have a strong interest in stepping into the world of Game Development! <br>
 Welcome to my profile! ✨
 
 # Tech Stacks:
@@ -39,12 +38,12 @@ Welcome to my profile! ✨
 # GitHub Stats:
 
 <p align="center">
-  <img src="https://grs.vercel.app/api?username=vitoriacdev&theme=buefy-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://streak-stats.demolab.com/?user=vitoriacdev&theme=dark&hide_border=true" alt="Streak Stats" />
+  <img src="https://nice-readme.vercel.app/api?username=vitoriacdev&theme=buefy-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://streak-stats.demolab.com/?user=vitoriacdev&theme=buefy-dark&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://grs.vercel.app/api/top-langs/?username=vitoriacdev&theme=buefy-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens mais usadas" />
+  <img src="https://nice-readme.vercel.app/api/top-langs/?username=vitoriacdev&theme=buefy-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens mais usadas" />
 </p>
 
 <br> 
