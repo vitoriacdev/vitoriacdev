@@ -38,12 +38,8 @@ Welcome to my profile! ✨
 # GitHub Stats:
 
 <div align="center">
-
- ![](https://github-readme-stats.shion.dev/api?username=vitoriacdev&theme=buefy-dark&hide_border=true&include_all_commits=true&count_private=true) <br>
-
- ![](https://streak-stats.demolab.com/?user=vitoriacdev&theme=buefy-dark&hide_border=true) <br>
- 
- ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vitoriacdev&theme=buefy-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img height="165" src="https://github-readme-stats-one-orpin-23.vercel.app/api?username=vitoriacdev&show_icons=true&theme=buefy-dark&border_color=bb6eba&count_private=true&v=20260901" />
+<img height="165" src="https://github-readme-stats-one-orpin-23.vercel.app/api/top-langs/?username=vitoriacdev&layout=compact&theme=buefy-dark&border_color=bb6eba&langs_count=6&v=20260901" />
 </div>
 
 <br> 
