@@ -16,10 +16,10 @@ Welcome to my profile! ✨
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-bb6eba?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-bb6eba?style=for-the-badge&logo=css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-bb6eba?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-bb6eba?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-bb6eba?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-bb6eba?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-bb6eba?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-bb6eba?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-bb6eba?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-bb6eba?style=for-the-badge&logo=angular&logoColor=white"/>
 </div>
@@ -29,18 +29,17 @@ Welcome to my profile! ✨
 # Socials:
 
 <div align="center">
-  <a href="https://instagram.com/_vitoriacdev/"><img src="https://img.shields.io/badge/Instagram-bb6eba?style=for-the-badge&logo=instagram&logoColor=black"/></a>
-  <a href="https://linkedin.com/in/vitoriacdev/"><img src="https://img.shields.io/badge/Linkedin-bb6eba?style=for-the-badge&logo=linksys&logoColor=black"/><a>
-    <a href="https://discord.gg/664635940056334337/"><img src="https://img.shields.io/badge/Discord-bb6eba?style=for-the-badge&logo=discord&logoColor=black"/></a>
+  <a href="https://instagram.com/_vitoriacdev/"><img src="https://img.shields.io/badge/Instagram-bb6eba?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/vitoriacdev/"><img src="https://img.shields.io/badge/Linkedin-bb6eba?style=for-the-badge&logo=linksys&logoColor=white"/><a>
+    <a href="https://discord.gg/664635940056334337/"><img src="https://img.shields.io/badge/Discord-bb6eba?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div>
 
 <br>
 
 # GitHub Stats:
+
 ![](https://github-readme-stats.shion.dev/api?username=vitoriacdev&theme=buefy-dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com?user=vitoriacdev&theme=buefy-dark&hide_border=true) <br>
-<div align="center">
-  
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vitoriacdev&theme=buefy-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
