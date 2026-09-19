@@ -38,10 +38,8 @@ Welcome to my profile! ✨
 
 # GitHub Stats:
 
-<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=vitoriacdev&theme=buefy-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
   <img src="https://streak-stats.demolab.com/?user=vitoriacdev&theme=buefy-dark&hide_border=true" alt="Streak Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vitoriacdev&theme=buefy-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens mais usadas" />
