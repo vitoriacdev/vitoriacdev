@@ -28,18 +28,9 @@ Welcome to my profile! ✨
 # Socials:
 
 <div align="center">
-  <a href="https://instagram.com/_vitoriacdev/"><img src="https://img.shields.io/badge/Instagram-bb6eba?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/_vitoriacavallaro/"><img src="https://img.shields.io/badge/Instagram-bb6eba?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/vitoriacdev/"><img src="https://img.shields.io/badge/Linkedin-bb6eba?style=for-the-badge&logo=linksys&logoColor=white"/><a>
     <a href="https://discord.gg/664635940056334337/"><img src="https://img.shields.io/badge/Discord-bb6eba?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</div>
-
-<br>
-
-# GitHub Stats:
-
-<div align="center">
-<img height="165" src="https://github-readme-stats-one-orpin-23.vercel.app/api?username=vitoriacdev&show_icons=true&theme=buefy-dark&border_color=bb6eba&count_private=true&v=20260901" />
-<img height="165" src="https://github-readme-stats-one-orpin-23.vercel.app/api/top-langs/?username=vitoriacdev&layout=compact&theme=buefy-dark&border_color=bb6eba&langs_count=6&v=20260901" />
 </div>
 
 <br> 
