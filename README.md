@@ -36,5 +36,5 @@ Welcome to my profile! ✨
 <br> 
 
 <div align="center"
-  <sub>made with <3 by vitoriacdev</sub>
+  <sub>made with by vitoriacdev <3 </sub>
 </div>
