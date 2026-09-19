@@ -1,7 +1,7 @@
 # Hello World! ✦
 
 <div align="center">
- <img src="https://64.media.tumblr.com/c5457e5e6b768f379496b29b608b2327/3ab19929bccd5d2d-43/s540x810/cc8a124b6e16255a6611b567b99fa8e1dd5572fc.gifv">
+ <img src=(https://64.media.tumblr.com/c5457e5e6b768f379496b29b608b2327/3ab19929bccd5d2d-43/s540x810/cc8a124b6e16255a6611b567b99fa8e1dd5572fc.gif)">
 </div>
 
 <br>
@@ -46,5 +46,5 @@ Welcome to my profile! ✨
 <br> 
 
 <div align="center"
-  <sub>made with <3 by voriacdev</sub>
+  <sub>made with <3 by vitoriacdev</sub>
 </div>
