@@ -1,7 +1,7 @@
 # Hello World! ✦
 
 <div align="center">
- <img src=(https://64.media.tumblr.com/c5457e5e6b768f379496b29b608b2327/3ab19929bccd5d2d-43/s540x810/cc8a124b6e16255a6611b567b99fa8e1dd5572fc.gif)">
+ <img src="https://64.media.tumblr.com/c5457e5e6b768f379496b29b608b2327/3ab19929bccd5d2d-43/s540x810/cc8a124b6e16255a6611b567b99fa8e1dd5572fc.gif">
 </div>
 
 <br>
@@ -38,9 +38,14 @@ Welcome to my profile! ✨
 
 # GitHub Stats:
 
+<div align="center">
+
 ![](https://github-readme-stats.shion.dev/api?username=vitoriacdev&theme=buefy-dark&hide_border=true&include_all_commits=true&count_private=true)
+
 ![](https://github-readme-streak-stats.herokuapp.com?user=vitoriacdev&theme=buefy-dark&hide_border=true) <br>
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vitoriacdev&theme=buefy-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 
 <br> 
