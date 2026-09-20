@@ -2,7 +2,7 @@
 
 
 <div align="center" width="100%">
-<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=bb6eba&width=900&size=22&center=true&lines=Hello,+My+name+is+Vitoria+Cavallaro+!;I+am+a+FrontEnd+Developer;And+UX/UI+Deigner;Welcome+to+my+profile!+✨" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&color=bb6eba&width=900&size=22&center=true&lines=Hello,+My+name+is+Vitoria+Cavallaro+!;I+am+a+FrontEnd+Developer;And+UX/UI+Designer;Welcome+to+my+profile!+✨" alt="Typing SVG" />
 </div>
 
 <br>
