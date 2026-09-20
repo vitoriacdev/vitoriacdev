@@ -1,14 +1,19 @@
-# Hello World! ✦
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=bb6eba&section=header"/>
 
-<div align="center">
- <img src="https://64.media.tumblr.com/c5457e5e6b768f379496b29b608b2327/3ab19929bccd5d2d-43/s540x810/cc8a124b6e16255a6611b567b99fa8e1dd5572fc.gif">
+
+<div align="center" width="100%">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=bb6eba&width=900&size=22&center=true&lines=Hello,+My+name+is+Vitoria+Cavallaro+!;I+am+a+FrontEnd+Developer;And+UX/UI+Deigner;Welcome+to+my+profile!+✨"
+    alt="Typing SVG"
+  />
 </div>
 
 <br>
 
+# About me 
+
 Hey, I'm Vitória! I'm 20 years old, based in Rio de Janeiro, and studying Software Engineering.
 My main focus is on Front-End Development and UI/UX Design. I create modern and intuitive interfaces by combining the design side with tools like Figma, Canva, and Google Stitch, and the coding side using HTML, CSS, JavaScript, and TypeScript. I also build my applications using frameworks and libraries such as React, Vue.js, and Angular. Looking ahead, I also have a strong interest in stepping into the world of Game Development! <br>
-Welcome to my profile! ✨
 
 # Tech Stacks:
 
@@ -30,7 +35,8 @@ Welcome to my profile! ✨
 <div align="center">
   <a href="https://instagram.com/_vitoriacavallaro/"><img src="https://img.shields.io/badge/Instagram-bb6eba?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/vitoriacdev/"><img src="https://img.shields.io/badge/Linkedin-bb6eba?style=for-the-badge&logo=linksys&logoColor=white"/><a>
-    <a href="https://discord.gg/664635940056334337/"><img src="https://img.shields.io/badge/Discord-bb6eba?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://discord.com/users/664635940056334337" target="_blank"><img src="https://img.shields.io/badge/Discord-bb6eba?style=for-the-badge&logo=discord&logoColor=white"/></a>
+   <a href="mailto:contatovitoriacavallaro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-contatovitoriacavallaro@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <br> 
@@ -38,3 +44,5 @@ Welcome to my profile! ✨
 <div align="center"
   <sub>made with by vitoriacdev <3 </sub>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=bb6eba&section=footer"/>
