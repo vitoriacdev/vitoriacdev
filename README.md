@@ -2,10 +2,7 @@
 
 
 <div align="center" width="100%">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=bb6eba&width=900&size=22&center=true&lines=Hello,+My+name+is+Vitoria+Cavallaro+!;I+am+a+FrontEnd+Developer;And+UX/UI+Deigner;Welcome+to+my+profile!+✨"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=bb6eba&width=900&size=22&center=true&lines=Hello,+My+name+is+Vitoria+Cavallaro+!;I+am+a+FrontEnd+Developer;And+UX/UI+Designer;Welcome+to+my+profile!+✨" alt="Typing SVG" />
 </div>
 
 <br>
@@ -36,7 +33,7 @@ My main focus is on Front-End Development and UI/UX Design. I create modern and 
   <a href="https://instagram.com/_vitoriacavallaro/"><img src="https://img.shields.io/badge/Instagram-bb6eba?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/vitoriacdev/"><img src="https://img.shields.io/badge/Linkedin-bb6eba?style=for-the-badge&logo=linksys&logoColor=white"/><a>
     <a href="https://discord.com/users/664635940056334337" target="_blank"><img src="https://img.shields.io/badge/Discord-bb6eba?style=for-the-badge&logo=discord&logoColor=white"/></a>
-   <a href="mailto:contatovitoriacavallaro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-contatovitoriacavallaro@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="mailto:contatovitoriacavallaro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/E-Mail-bb6eba?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <br> 
