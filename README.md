@@ -2,7 +2,8 @@
 
 
 <div align="center" width="100%">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=bb6eba&width=900&size=22&center=true&lines=Hello,+my+name+is+Vitoria+Cavallaro!;I+am+a+Front+End+Developer;And+UX/UI+Designer;Welcome+to+my+profile!+✨" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=bb6eba&width=900&size=22&center=true&lines=Hello,+my+name+is+Vitoria+Cavallaro!;I+am+a+Full+Stack+Developer;Welcome+to+my+profile!+👾" 
+  alt="Typing SVG" />
 </div>
 
 <br>
@@ -31,11 +32,11 @@ My main focus is on Front-End Development and UI/UX Design. I create modern and 
 
 ### 𝚂𝚘𝚌𝚒𝚊𝚕𝚜:
 
-<div align="center">
-  <a href="https://instagram.com/_vitoriacavallaro/" target="_blank"><img src="https://img.shields.io/badge/Instagram-bb6eba?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/vitoriacdev/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-bb6eba?style=for-the-badge&logo=linksys&logoColor=white"/><a>
-    <a href="https://discord.com/users/664635940056334337" target="_blank"><img src="https://img.shields.io/badge/Discord-bb6eba?style=for-the-badge&logo=discord&logoColor=white"/></a>
-   <a href="mailto:contatovitoriacavallaro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMail-bb6eba?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<div align="center" target="blank">
+  <a href="https://instagram.com/_vitoriacavallaro/"><img src="https://img.shields.io/badge/Instagram-bb6eba?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/vitoriacdev/"><img src="https://img.shields.io/badge/Linkedin-bb6eba?style=for-the-badge&logo=linksys&logoColor=white"/><a>
+    <a href="https://discord.com/users/664635940056334337"><img src="https://img.shields.io/badge/Discord-bb6eba?style=for-the-badge&logo=discord&logoColor=white"/></a>
+   <a href="mailto:contatovitoriacavallaro@gmail.com"><img src="https://img.shields.io/badge/EMail-bb6eba?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <br> 
