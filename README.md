@@ -22,6 +22,9 @@ My main focus is on Front-End Development and UI/UX Design. I create modern and 
   <img src="https://img.shields.io/badge/Figma-bb6eba?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-bb6eba?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-bb6eba?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-bb6eba?style=for-the-badge&logo=nodejs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-bb6eba?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-bb6eba?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
 <br>
