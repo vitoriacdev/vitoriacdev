@@ -32,8 +32,8 @@ My main focus is on Front-End Development and UI/UX Design. I create modern and 
 
 ### 𝚂𝚘𝚌𝚒𝚊𝚕𝚜:
 
-<div align="center" target="blank">
-  <a href="https://instagram.com/_vitoriacavallaro/"><img src="https://img.shields.io/badge/Instagram-bb6eba?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<div align="center">
+  <a href="https://instagram.com/_vitoriacavallaro/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-bb6eba?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/vitoriacdev/"><img src="https://img.shields.io/badge/Linkedin-bb6eba?style=for-the-badge&logo=linksys&logoColor=white"/><a>
     <a href="https://discord.com/users/664635940056334337"><img src="https://img.shields.io/badge/Discord-bb6eba?style=for-the-badge&logo=discord&logoColor=white"/></a>
    <a href="mailto:contatovitoriacavallaro@gmail.com"><img src="https://img.shields.io/badge/EMail-bb6eba?style=for-the-badge&logo=gmail&logoColor=white"/></a>
