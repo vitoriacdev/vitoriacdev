@@ -11,7 +11,7 @@
 ### 𝖠𝖻𝗈𝗎𝗍 𝗆𝖾:
 
 Hey, I'm Vitória! I'm 20 years old, based in Rio de Janeiro, and studying Software Engineering.
-My main focus is on Front-End Development and UI/UX Design. I create modern and intuitive interfaces by combining the design side with tools like Figma, Canva, and Google Stitch, and the coding side using HTML, CSS, JavaScript, and TypeScript. I also build my applications using frameworks and libraries such as React and Vue.js. Looking ahead, I also have a strong interest in stepping into the world of Game Development! <br>
+My main focus is on Front-End Development. I create modern and intuitive interfaces by combining the design side with tools like Figma, Canva, and Google Stitch, and the coding side using HTML, CSS, JavaScript, and TypeScript. I also build my applications using frameworks and libraries such as React and Vue.js. Looking ahead, I also have a strong interest in stepping into the world of Game Development! <br>
 
 ### 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔𝚜:
 
