@@ -11,7 +11,7 @@
 ### 𝖠𝖻𝗈𝗎𝗍 𝗆𝖾:
 
 Hey, I'm Vitória! I'm 20 years old, based in Rio de Janeiro, and studying Software Engineering.
-My main focus is on Front-End Development. I create modern and intuitive interfaces by combining the design side with tools like Figma, Canva, and Google Stitch, and the coding side using HTML, CSS, JavaScript, and TypeScript. I also build my applications using frameworks and libraries such as React and Vue.js. Looking ahead, I also have a strong interest in stepping into the world of Game Development! <br>
+My main focus is on Full Stack Development. I create modern and intuitive interfaces by combining the design side with tools like Figma, Canva, and Google Stitch, and the coding side using HTML, CSS, JavaScript, and TypeScript. Looking ahead, I also have a strong interest in stepping into the world of Game Development! <br>
 
 ### 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔𝚜:
 
@@ -21,9 +21,6 @@ My main focus is on Front-End Development. I create modern and intuitive interfa
   <img src="https://img.shields.io/badge/JavaScript-bb6eba?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-bb6eba?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-bb6eba?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-bb6eba?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-bb6eba?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-bb6eba?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-bb6eba?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-bb6eba?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
