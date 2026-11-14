@@ -34,7 +34,7 @@ My main focus is on Full Stack Development. I create modern and intuitive interf
   <a href="https://linkedin.com/in/vitoriacdev/"><img src="https://img.shields.io/badge/Linkedin-bb6eba?style=for-the-badge&logo=linksys&logoColor=white"/><a>
     <a href="https://discord.com/users/664635940056334337"><img src="https://img.shields.io/badge/Discord-bb6eba?style=for-the-badge&logo=discord&logoColor=white"/></a>
    <a href="mailto:contatovitoriacavallaro@gmail.com"><img src="https://img.shields.io/badge/EMail-bb6eba?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-     <a href="https://vitoriacdev.github.io/portfoliovitoriacdev/"><img src="https://img.shields.io/badge/Pinterest-bb6eba?style=for-the-badge&logo=portfolio&logoColor=white"/></a>
+     <a href="https://vitoriacdev.github.io/portfoliovitoriacdev/"><img src="https://img.shields.io/badge/Portfolio-bb6eba?style=for-the-badge&logo=portfolio&logoColor=white"/></a>
 </div>
 
 <br> 
