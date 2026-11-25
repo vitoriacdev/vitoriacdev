@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=bb6eba&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=450746&section=header"/>
 
 
 <div align="center" width="100%">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=bb6eba&width=900&size=22&center=true&lines=Hello,+my+name+is+Vitoria+Cavallaro!;I+am+a+Full+Stack+Developer;Welcome+to+my+profile!+👾" 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=bb6eba&width=900&size=22&center=true&lines=Hello,+my+name+is+Vitoria+Cavallaro!;I+am+a+Full+Stack+Developer;Welcome+to+my+profile!+💜" 
   alt="Typing SVG" />
 </div>
 
@@ -17,12 +17,12 @@ My main focus is on Full Stack Development. I create modern and intuitive interf
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-450746?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-bb6eba?style=for-the-badge&logo=css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-bb6eba?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-bb6eba?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-bb6eba?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-bb6eba?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-bb6eba?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-450746?style=for-the-badge&logo=css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-450746?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-450746?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-450746?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-450746?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-450746?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 
 <br>
@@ -30,17 +30,17 @@ My main focus is on Full Stack Development. I create modern and intuitive interf
 ### 𝚂𝚘𝚌𝚒𝚊𝚕𝚜:
 
 <div align="center">
-  <a href="https://instagram.com/_vitoriacavallaro/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-bb6eba?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/vitoriacdev/"><img src="https://img.shields.io/badge/Linkedin-bb6eba?style=for-the-badge&logo=linksys&logoColor=white"/><a>
-    <a href="https://discord.com/users/664635940056334337"><img src="https://img.shields.io/badge/Discord-bb6eba?style=for-the-badge&logo=discord&logoColor=white"/></a>
-   <a href="mailto:contatovitoriacavallaro@gmail.com"><img src="https://img.shields.io/badge/EMail-bb6eba?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-     <a href="https://vitoriacdev.github.io/portfoliovitoriacdev/"><img src="https://img.shields.io/badge/Portfolio-bb6eba?style=for-the-badge&logo=portfolio&logoColor=white"/></a>
+  <a href="https://instagram.com/_vitoriacavallaro/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-450746?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/vitoriacdev/"><img src="https://img.shields.io/badge/Linkedin-450746?style=for-the-badge&logo=linksys&logoColor=white"/><a>
+    <a href="https://discord.com/users/664635940056334337"><img src="https://img.shields.io/badge/Discord-450746?style=for-the-badge&logo=discord&logoColor=white"/></a>
+   <a href="mailto:contatovitoriacavallaro@gmail.com"><img src="https://img.shields.io/badge/EMail-450746?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+     <a href="https://vitoriacdev.github.io/portfoliovitoriacdev/"><img src="https://img.shields.io/badge/Portfolio-450746?style=for-the-badge&logo=portfolio&logoColor=white"/></a>
 </div>
 
 <br> 
 
 <div align="center"
-  <sub>made with by vitoriacdev <3 </sub>
+  <sub>made with by @vitoriacdev </sub>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=bb6eba&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=450746&section=footer"/>
