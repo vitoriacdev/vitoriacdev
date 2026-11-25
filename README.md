@@ -32,9 +32,9 @@ My main focus is on Full Stack Development. I create modern and intuitive interf
 <div align="center">
   <a href="https://instagram.com/_vitoriacavallaro/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-450746?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/vitoriacdev/"><img src="https://img.shields.io/badge/Linkedin-450746?style=for-the-badge&logo=linksys&logoColor=white"/><a>
-    <a href="https://discord.com/users/664635940056334337"><img src="https://img.shields.io/badge/Discord-450746?style=for-the-badge&logo=discord&logoColor=white"/></a>
-   <a href="mailto:contatovitoriacavallaro@gmail.com"><img src="https://img.shields.io/badge/EMail-450746?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-     <a href="https://vitoriacdev.github.io/portfoliovitoriacdev/"><img src="https://img.shields.io/badge/Portfolio-450746?style=for-the-badge&logo=pandora&logoColor=white"/></a>
+  <a href="https://discord.com/users/664635940056334337"><img src="https://img.shields.io/badge/Discord-450746?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="mailto:contatovitoriacavallaro@gmail.com"><img src="https://img.shields.io/badge/EMail-450746?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://vitoriacdev.github.io/portfoliovitoriacdev/"><img src="https://img.shields.io/badge/Portfolio-450746?style=for-the-badge&logo=pandora&logoColor=white"/></a>
 </div>
 
 <br> 
