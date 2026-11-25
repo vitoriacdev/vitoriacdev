@@ -2,7 +2,7 @@
 
 
 <div align="center" width="100%">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=bb6eba&width=900&size=22&center=true&lines=Hello,+my+name+is+Vitoria+Cavallaro!;I+am+a+Full+Stack+Developer;Welcome+to+my+profile!+💜" 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=450746&width=900&size=22&center=true&lines=Hello,+my+name+is+Vitoria+Cavallaro!;I+am+a+Full+Stack+Developer;Welcome+to+my+profile!+💜" 
   alt="Typing SVG" />
 </div>
 
