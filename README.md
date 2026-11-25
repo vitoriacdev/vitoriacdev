@@ -8,12 +8,12 @@
 
 <br>
 
-### 𝖠𝖻𝗈𝗎𝗍 𝗆𝖾:
+### About me:
 
 Hey, I'm Vitória! I'm 20 years old, based in Rio de Janeiro, and studying Software Engineering.
 My main focus is on Full Stack Development. I create modern and intuitive interfaces by combining the design side with tools like Figma, Canva, and Google Stitch, and the coding side using HTML, CSS, JavaScript, and TypeScript. Looking ahead, I also have a strong interest in stepping into the world of Game Development! <br>
 
-### 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔𝚜:
+### Tech Stacks:
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-450746?style=for-the-badge&logo=html5&logoColor=white" />
@@ -27,7 +27,7 @@ My main focus is on Full Stack Development. I create modern and intuitive interf
 
 <br>
 
-### 𝚂𝚘𝚌𝚒𝚊𝚕𝚜:
+### Socials:
 
 <div align="center">
   <a href="https://instagram.com/_vitoriacavallaro/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-450746?style=for-the-badge&logo=instagram&logoColor=white"/></a>
