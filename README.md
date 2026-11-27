@@ -2,7 +2,7 @@
 
 
 <div align="center" width="100%">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=450746&width=900&size=22&center=true&lines=Hello,+my+name+is+Vitoria+Cavallaro!;I+am+a+Full+Stack+Developer;Welcome+to+my+profile!+💜" 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=B565D9&width=900&size=22&center=true&lines=Hello,+my+name+is+Vitoria+Cavallaro!;I+am+a+Full+Stack+Developer;Welcome+to+my+profile!+💜" 
   alt="Typing SVG" />
 </div>
 
@@ -31,7 +31,7 @@ My main focus is on Full Stack Development. I create modern and intuitive interf
 
 <div align="center">
   <a href="https://instagram.com/_vitoriacavallaro/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-450746?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/vitoriacdev/"><img src="https://img.shields.io/badge/Linkedin-450746?style=for-the-badge&logo=linksys&logoColor=white"/><a>
+  <a href="https://linkedin.com/in/vitoriacdev/"><img src="https://img.shields.io/badge/Linkedin-450746?style=for-the-badge&logo=linksys&logoColor=white"/></a>
   <a href="https://discord.com/users/664635940056334337"><img src="https://img.shields.io/badge/Discord-450746?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="mailto:contatovitoriacavallaro@gmail.com"><img src="https://img.shields.io/badge/EMail-450746?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://vitoriacdev.github.io/portfoliovitoriacdev/"><img src="https://img.shields.io/badge/Portfolio-450746?style=for-the-badge&logo=pandora&logoColor=white"/></a>
@@ -39,8 +39,8 @@ My main focus is on Full Stack Development. I create modern and intuitive interf
 
 <br> 
 
-<div align="center"
-  <sub>made with by @vitoriacdev </sub>
+<div align="center">
+  <sub>made with by @vitoriacdev</sub>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=450746&section=footer"/>
