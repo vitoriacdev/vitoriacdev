@@ -16,7 +16,7 @@ My main focus is on Full Stack Development. I create modern and intuitive interf
 ### Tech Stacks:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML-450746?style=for-the-badge&logo=w3c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-450746?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CSS-450746?style=for-the-badge&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-450746?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-450746?style=for-the-badge&logo=typescript&logoColor=white" />
