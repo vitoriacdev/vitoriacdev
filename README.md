@@ -16,7 +16,7 @@ My main focus is on Full Stack Development. I create modern and intuitive interf
 ### Tech Stacks:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML-450746?style=for-the-badge&logo=html5&logoColor=white&v=2" />
+  <img src="https://img.shields.io/badge/HTML-450746?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI%2BPHRpdGxlPkhUTUw1PC90aXRsZT48cGF0aCBkPSJNMS41IDBoMjFsLTEuOTEgMjEuNTYzTDExLjk3NyAyNGwtOC41NjQtMi40MzhMMS41IDB6bTcuMDMxIDkuNzVsLS4yMzItMi43MTggMTAuMDU5LjAwMy4yMy0yLjYyMkw1LjQxMiA0LjQxbC42OTggOC4wMWg5LjEyNmwtLjMyNiAzLjQyNi0yLjkxLjgwNC0yLjk1NS0uODEtLjE4OC0yLjExSDYuMjQ4bC4zMyA0LjE3MUwxMiAxOS4zNTFsNS4zNzktMS40NDMuNzQ0LTguMTU3SDguNTMxeiIvPjwvc3ZnPg%3D%3D" />
   <img src="https://img.shields.io/badge/CSS-450746?style=for-the-badge&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-450746?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-450746?style=for-the-badge&logo=typescript&logoColor=white" />
